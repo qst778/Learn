@@ -1,3 +1,4 @@
+//github多人协作
 #include<stdio.h>
 double chufa(double a,double b){
        return a/b;
@@ -15,4 +16,5 @@ int main()
        printf("%d-%d=%d",a,b,subtraction(a,b));
        return 0;
 }
+
 
