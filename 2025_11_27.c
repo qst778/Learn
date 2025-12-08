@@ -25,8 +25,10 @@ int main()
        printf("%d-%d=%d\n",a,b,subtraction(a,b));
        printf("%.2f/%.2f=%.2f\n",a,b,chufa(a,b));
        printf("%d+%d=%d\n",a,b,add(a,b));
+       printf("%d*%d=%d\n",a,b,multiply(a,b));
        return 0;
 }
+
 
 
 
